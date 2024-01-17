@@ -1,5 +1,6 @@
 First string from f1 branch
 Line from user1
 fix bug
-add new feat from f1
+add second featrure from f1 branch
+
 
