@@ -1,2 +1,4 @@
 First string from f1 branch
 Line from user1
+fix bug
+
