@@ -1,9 +1,0 @@
-First string from f1 branch
-Line from user1
-fix bug
-add second featrure from f1 branch
-
-adfsddsafdsadsa
-
-cdsvdvcdsds
-cdscdscdsc
